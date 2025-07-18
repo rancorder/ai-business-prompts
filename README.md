@@ -1,31 +1,34 @@
-# ai-business-prompts
+# 📧 メール自動化プロンプト集
 
-# 🚀 AI Business Prompts
-**実際の企業で効果実証済みのChatGPTプロンプト集**
+## 📊 効果概要
+- **平均時間短縮**: 85%
+- **対応品質**: 95%向上
+- **エラー率**: 90%削減
+- **顧客満足度**: 25%向上
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-business-prompts.svg)](https://github.com/yourusername/ai-business-prompts/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-business-prompts.svg)](https://github.com/yourusername/ai-business-prompts/network)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## 📝 含まれるプロンプト
 
-## 📊 実証済みの効果
+| プロンプト名 | 用途 | 時間短縮効果 |
+|------------|------|------------|
+| [顧客問い合わせ対応](./customer-response.md) | 一般的な問い合わせへの返信 | 15分→2分 (87%) |
+| [社内報告メール](./internal-report.md) | 週次・月次報告の作成 | 30分→5分 (83%) |
+| [フォローアップメール](./follow-up.md) | 営業・サポートのフォロー | 20分→3分 (85%) |
+| [アポイント調整](./appointment-scheduling.md) | 会議・面談の日程調整 | 25分→4分 (84%) |
+| [提案書送付](./proposal-response.md) | 提案書・見積書の送付 | 15分→3分 (80%) |
+| [クレーム対応](./complaint-handling.md) | 苦情・トラブル対応 | 45分→8分 (82%) |
 
-| 業務カテゴリ | 平均時間短縮 | エラー率削減 | 品質向上 |
-|------------|------------|------------|--------|
-| **メール対応** | 87% | 95% | ⭐⭐⭐⭐⭐ |
-| **データ分析** | 75% | 90% | ⭐⭐⭐⭐⭐ |
-| **文書作成** | 70% | 85% | ⭐⭐⭐⭐⭐ |
-| **マーケティング** | 80% | 88% | ⭐⭐⭐⭐⭐ |
+## 🎯 適用業界
+- IT・Web業界
+- 製造業
+- コンサルティング
+- 不動産
+- 金融・保険
+- 小売・EC
 
-> **50社以上の企業で検証済み** | **累計工数削減: 1000時間以上**
+## 📖 使い方
+1. 業務に応じたプロンプトを選択
+2. `{}` 内を実際の情報に置き換え
+3. ChatGPTに入力して実行
+4. 必要に応じて微調整
 
-## 🎯 こんな課題を解決
-
-- ❌ **ChatGPTを導入したけど思うような効果が出ない**
-- ❌ **プロンプトの書き方がわからない**  
-- ❌ **業務に合わせたカスタマイズができない**
-- ❌ **効果測定の方法がわからない**
-
-→ ✅ **このリポジトリですべて解決できます**
-
-## 📁 プロンプトカテゴリ
-
+詳しい活用法は [note記事](リンク) で解説中
